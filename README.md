@@ -45,7 +45,7 @@ cargo --version
 
 ## Get the code & build
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/KBPsystem777/rusty-github-logger>
 cd rust-github-commit-logger
 cargo build --release
 ```
